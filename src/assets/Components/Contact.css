@@ -1,0 +1,48 @@
+.Contact-banner{
+    margin-top: 250px;
+    width: 60%;
+    height: 510px;
+    background-color: #DCDCDC;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 20px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(0, 0, 0, 0.1),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.form-input{
+    margin-top: 10px;
+    text-align: center;
+    gap: 50px;
+    height: 40px;
+    width: 30% ;
+    border-radius: 30px;
+    border: none;
+}
+#text-area{
+    margin-top: 10px;
+   width: 30%;
+   border-radius: 30px;
+   border: none;
+   padding: 10px;
+   text-align: center;
+   height: 50px;
+}
+.submit-btn{
+    margin-top: 11px;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+}
+.white-space{
+    width: 100%;
+    height: 600px;
+    background-color: #DCDCDC;
+}
+.wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    
+}

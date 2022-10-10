@@ -1,0 +1,129 @@
+.Shop_card_container{
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    align-items: center;
+    
+    }
+.Shop_card{
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(0, 0, 0, 0.1),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.1);
+    min-width: 20%;
+    max-width: 20%;
+    margin: 1% ;
+    padding: 2%;
+    min-height: 45vh;
+    max-height: 45vh;
+}
+.Card_image{
+    min-width: 30%;
+    max-width: 30;
+    min-height: 180px;
+    max-height: 180px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.Card_images{
+    width: 218px;
+    height: 219px;
+}
+.Card_title{
+    margin: 10px 0;
+    text-align: center;
+    font-weight: bold;
+    min-height: 35px;
+    max-height: 35px;
+    overflow: hidden;
+   
+}
+.Shop-Container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Card_rating{
+    padding: 10px;
+    font-weight: bold;
+    
+}
+.div_container{
+    width: 340px;
+    padding: 5px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(0, 0, 0, 0.1),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.1);
+   
+}
+.Card_price{
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+.shop_heading{
+    text-align: center;
+    text-transform: uppercase;
+}
+.price_rating{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.left_side_bar{
+        width: 25%;
+        box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(0, 0, 0, 0.1),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.1);
+}
+.lists{
+    font-size: 20px;
+    
+}
+.lists{
+    font-size: 20px;
+}
+
+.cat{
+    cursor: pointer;
+   margin: 35px;
+}
+.cat:hover{
+    font-size: 25px;
+    transition: 0s;
+    color:red;
+   margin: 35px;
+}
+.cat:hover{
+    transition: 0.5s;
+    color:red;
+}
+.cat__active{
+    color:red;
+    cursor: pointer;
+    margin: 35px;
+}
+.hr:hover{
+    transition: 0.5s;
+    background-color: red;
+    width: 80%;
+}
+.cat_heading{
+    text-align: center;
+}
+.cat_card{
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+}
+.hr{
+    width: 0%;
+    
+}
+.cat_heading{
+    margin: 20px;
+}
+.cat {
+    cursor: pointer;
+   margin: 35px;
+}

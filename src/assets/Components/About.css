@@ -1,0 +1,24 @@
+.text-container{
+    padding: 10px;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #DCDCDC;
+    margin-top: 50px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(0, 0, 0, 0.1),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+    align-items: center;
+}
+.wrap{
+    width: 100%;
+    height: 350px;
+    margin-top: -35px;
+    background-color: #DCDCDC;
+}
+.about-heading{
+   text-align: center; 
+   font-size: 30px;
+   text-transform: uppercase; 
+    
+}
